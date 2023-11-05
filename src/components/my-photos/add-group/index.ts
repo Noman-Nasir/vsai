@@ -1,0 +1,1 @@
+export { AddPhotoGroup } from './AddGroup';
